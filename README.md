@@ -3,6 +3,8 @@
 Paper accepted for Poster Presentation at **CVPR2022 - CV4Animals Workshop** (20 June 2022) https://www.cv4animals.com/
 
 Our preprint submitted for IJCV Journal can be accessed here https://github.com/Theivaprakasham/siamfly/blob/main/preprint/SiamFly-preprint.pdf
+
+
 Our poster presented at CVPR 2022 here https://github.com/Theivaprakasham/siamfly/blob/main/CVPR_poster/CVPR22_final_poster_Siamfly.pdf
 
 # Authors
@@ -10,6 +12,8 @@ Our poster presented at CVPR 2022 here https://github.com/Theivaprakasham/siamfl
 Hari Theivaprakasham (cb.en.p2cen20026@cb.students.amrita.edu), V Sowmya (v_sowmya@cb.amrita.edu), Vinayakumar Ravi (vravi@pmu.edu.sa), EA Gopalakrishnan (ea_gopalakrishnan@cb.amrita.edu) and KP Soman (kp_soman@amrita.edu).
 
 1. Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India.
+
+
 2. Center for Artificial Intelligence, Prince Mohammad Bin Fahd University, Khobar, Saudi Arabia.
 
 # Abstract
@@ -22,11 +26,14 @@ Butterfly classification is a fine-grained classification problem due to highly 
 We propose a new large-scale, fine-grained, research-grade butterfly image dataset with 1,27,724 butterfly images belonging to 686 species of butterflies from India. Most of the images were collected from internet sources (Google Images, Bing and Flickr), few of the images were collected from the iNaturalist GBIF dataset filtered over the Indian sub-continent, and the rest of the images were contributed by the first author.
 
 
+![image](https://github.com/Theivaprakasham/siamfly/blob/main/media/sample_dataset.jpg?raw=true)
+
+
 # Proposed Architecture
 
 **SiamFly**
 
-![image](https://user-images.githubusercontent.com/44334254/174580122-5c3ecc22-06bc-4279-b44f-4cd17a57b506.png)
+![image](https://github.com/Theivaprakasham/siamfly/blob/main/media/siamfly_architecture.jpg?raw=true)
 
 
 # Demo
